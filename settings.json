@@ -6,16 +6,16 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MajesticsMC-Kaz.aternos.me",
+    "ip": "MajesticsMC-Kaz.aternos.me:30296",
     "port": 30296,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 990,
     "y": 100,
-    "z": 0
+    "z": 2000
   },
   "utils": {
     "auto-auth": {
